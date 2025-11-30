@@ -44,7 +44,7 @@ Machine learning + sensors to detect early machine faults.
 ---
 
 ### 🌐 Connect With Me  
-- **LinkedIn:** *(Add your LinkedIn link here)*  
+- **LinkedIn:** *in/harshvardhan-shinde-063699345*  
 - **GitHub:** github.com/harshvardhan-10S  
 
 ---
