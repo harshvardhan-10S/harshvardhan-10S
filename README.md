@@ -1,50 +1,103 @@
 <h1 align="center">Hi 👋, I'm Harshvardhan Shinde</h1>
-<h3 align="center">ENTC Student | Embedded Systems • IoT • AI • Digital Electronics</h3>
+<h3 align="center">Electronics & Telecommunication Engineering | IoT & Embedded Systems</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 Electronics & Telecommunication Engineering student at VIT Pune  
-- 🔧 Passionate about **IoT devices, embedded systems, and AI-driven automation**  
-- 🤖 Love building real-world hardware + software projects  
-- 📚 Currently learning **GitHub, Embedded C, ARM, and Cloud IoT**
+## 🧑‍💻 Intro  
+I’m an ENTC engineering student passionate about building **IoT automation systems**, **embedded hardware**, and **sensor-driven real-time solutions**.  
+I love integrating sensors, microcontrollers, and cloud platforms to create meaningful engineering systems.
 
 ---
 
-### 🛠 Technical Skills
-- **Embedded Systems:** Arduino, ESP32, Sensors, Load Cell  
-- **Programming:** C, Embedded C, Python  
-- **Digital Electronics:** K-Maps, Mux/Demux, Flip-Flops, FSM  
-- **IoT & Hardware:** WiFi, MQTT, Cloud IoT, PCB basics  
-- **AI Basics:** Predictive maintenance, automation systems  
+## 🛠️ Technical Skills  
+- IoT Systems Development  
+- Embedded Systems Design  
+- Sensor Integration & Calibration  
+- Real-Time Data Monitoring & Control  
+- Hardware–Software Integration  
+- Circuit & PCB Design Basics  
+- Wireless Communication Protocols  
+- Programming: C, Embedded C, Python  
 
 ---
 
-### 📂 Projects
-### 🔹 Smart Milking Machine  
-IoT-based automated milking system using Load Cell + HX711 for real-time milk measurement and auto-stop mechanism.  
-🔗 *View Repository:* https://github.com/harshvardhan-10S/smart-milking-machine
+## 🤝 Soft Skills  
+- Problem Solving  
+- Analytical Thinking  
+- Team Collaboration  
+- Quick Learning  
+- Documentation & Reporting  
+- Project Planning  
+
+---
+
+## 🧩 CAD & AutoCAD Skills  
+- Creating 2D technical drawings  
+- Engineering component drafting  
+- Designing project enclosure models  
+- Basic 3D modeling for hardware casings  
+- Circuit layout planning using CAD tools  
+- Preparing fabrication-ready dimensioned diagrams  
+- Understanding tolerances & mechanical fitting  
+
+---
+
+## 📄 Letter of Intent (LOI)  
+I received an **Industry-Sponsored Project LOI** from **SNS Technosys LLP**, recognizing my technical skills and project execution abilities.
+
+### 📝 Project Title  
+**COWAlert — An IoT-Based Automated Milking & Monitoring System**
+
+### 🏢 Issued By  
+SNS Technosys LLP, Pune  
+*Industry collaboration for academic innovation.*
+
+### 📅 Duration  
+**July 25, 2025 – December 25, 2025**
+
+### 🔍 Key Highlights  
+- Real-time milk yield measurement  
+- Cow motion & temperature monitoring  
+- ESP32-CAM live video stream  
+- Automated motor control  
+- Cloud storage & alert notifications  
+- Mobile + WhatsApp alert system  
+
+### 📥 Download LOI  
+👉 **[Click here to view LOI (PDF)](LOI%20VIT%20.pdf)**
+
+---
+
+## 🚀 My Projects  
+
+### 🔹 Temperature-Controlled Fan System  
+A temperature-activated cooling system using LM35 + Arduino/NodeMCU.  
+🔗 Repository: https://github.com/harshvardhan-10S/temperature-controlled-fan  
+
+---
 
 ### 🔹 Smart Inventory Management System  
-Load cell–based real-time stock monitoring system using ESP8266 + IoT dashboard for automation.  
-🔗 *View Repository:* https://github.com/harshvardhan-10S/smart-inventory-management-system
-
-### 🔹 Temperature-Controlled Fan  
-Sensor-based automated cooling system using LM35 with fan control based on temperature thresholds.  
-🔗 *View Repository:* https://github.com/harshvardhan-10S/temperature-controlled-fan
+IoT-based stock monitoring using HX711 + ESP8266 with cloud alerts.  
+🔗 Repository: https://github.com/harshvardhan-10S/smart-inventory-management-system  
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshvardhan-10S&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshvardhan-10S&theme=radical" height="150"/>
-</p>
+### 🔹 Smart Milking Machine  
+Automated milk collection using a load-cell-based sensing and auto-stop mechanism.  
+🔗 Repository: https://github.com/harshvardhan-10S/smart-milking-machine  
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshvardhan-shinde-063699345)
+## 🌐 Connect With Me  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshvardhan-shinde-063699345)
+
+---
+
+## ⭐ Extra Section: What I'm Learning Now  
+- Cloud IoT Platforms (Firebase, AWS IoT)  
+- Embedded Communication (SPI, I2C, UART, MQTT)  
+- IoT Dashboard Development  
+- AI-Powered Sensor Analytics  
 
 ---
 
