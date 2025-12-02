@@ -95,7 +95,7 @@ Automated milk collection using a load-cell-based sensing and auto-stop mechanis
 
 ## 🧩 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-hvshinde10-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hvshinde10)
+[![LeetCode](https://img.shields.io/badge/LeetCode-harshvardhan--10s-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/harshvardhan-10s/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-hvshinde10-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/hvshinde10)
 
 ---
