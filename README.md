@@ -93,6 +93,13 @@ Automated milk collection using a load-cell-based sensing and auto-stop mechanis
 
 ---
 
+## 🧩 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-hvshinde10-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/hvshinde10)
+[![CodeChef](https://img.shields.io/badge/CodeChef-hvshinde10-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/hvshinde10)
+
+---
+
 ## ⭐ Extra Section: What I'm Learning Now  
 - Cloud IoT Platforms (Firebase, AWS IoT)  
 - Embedded Communication (SPI, I2C, UART, MQTT)  
