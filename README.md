@@ -21,17 +21,17 @@
 ---
 
 ### 📂 Projects
-#### 🐄 Smart Milking Machine  
-Fully automated milking collector using load cell sensing and auto-stop system.
+### 🔹 Smart Milking Machine  
+IoT-based automated milking system using Load Cell + HX711 for real-time milk measurement and auto-stop mechanism.  
+🔗 *View Repository:* https://github.com/harshvardhan-10S/smart-milking-machine
 
-#### 📦 Smart Inventory Management  
-Load cell–based weight tracking + automatic restock alerts.
+### 🔹 Smart Inventory Management System  
+Load cell–based real-time stock monitoring system using ESP8266 + IoT dashboard for automation.  
+🔗 *View Repository:* https://github.com/harshvardhan-10S/smart-inventory-management-system
 
-#### 🌡 Temperature Controlled Fan  
-Arduino-based automatic fan control using temperature feedback.
-
-#### ⚙️ AI-Powered Predictive Maintenance  
-Machine learning + sensors to detect early machine faults.
+### 🔹 Temperature-Controlled Fan  
+Sensor-based automated cooling system using LM35 with fan control based on temperature thresholds.  
+🔗 *View Repository:* https://github.com/harshvardhan-10S/temperature-controlled-fan
 
 ---
 
