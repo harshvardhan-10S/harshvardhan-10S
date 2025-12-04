@@ -102,9 +102,11 @@ Automated milk collection using a load-cell-based sensing and auto-stop mechanis
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshvardhan-10S&show_icons=true&theme=dark" />
+![Harshvardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshvardhan-10S&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan-10S&layout=compact&theme=dark" />
+![GitHub Streak](https://streak-stats.demolab.com?user=harshvardhan-10S&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhan-10S&layout=compact&theme=tokyonight)
 
 ---
 
