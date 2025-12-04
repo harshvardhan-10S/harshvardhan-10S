@@ -100,15 +100,6 @@ Automated milk collection using a load-cell-based sensing and auto-stop mechanis
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=harshvardhan-10S&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats-godkingjay.vercel.app/?user=harshvardhan-10S&theme=radical" height="150"/>
-</p>
-
-
----
-
 ## ⭐ Extra Section: What I'm Learning Now  
 - Cloud IoT Platforms (Firebase, AWS IoT)  
 - Embedded Communication (SPI, I2C, UART, MQTT)  
